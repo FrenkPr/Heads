@@ -1,6 +1,6 @@
 # Heads
- Heads 1st project created during AIV 1st year.<br/>
- All rights reserved to AIV company.
+Heads 1st exam project created during AIV 1st year.<br/>
+All rights reserved to AIV company.
 
 # Short description
 A shooter 2 players game.
